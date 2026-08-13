@@ -1,6 +1,5 @@
 <h1>About me</h1>
-<h3># About Me
-
+<h3>
 Hi, I'm Gurudayal Yadav, a B.Tech Computer Science Engineering student with a strong interest in **Machine Learning, Data Science, and Software Development**.
 I'm currently focused on building a strong career in **Machine Learning** by learning concepts deeply, working on practical projects, and continuously exploring new technologies. Alongside ML, I practice **Data Structures and Algorithms (DSA) using Java** every day to strengthen my problem-solving and programming skills.
 
