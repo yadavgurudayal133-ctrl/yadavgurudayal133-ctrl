@@ -1,22 +1,39 @@
-<h1>About me</h1>
-<h3>
-Hi, I'm Gurudayal Yadav, a B.Tech Computer Science Engineering student with a strong interest in **Machine Learning, Data Science, and Software Development**.
-I'm currently focused on building a strong career in **Machine Learning** by learning concepts deeply, working on practical projects, and continuously exploring new technologies. Alongside ML, I practice **Data Structures and Algorithms (DSA) using Java** every day to strengthen my problem-solving and programming skills.
+<table style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; padding-right: 30px;" width="70%">
+      <p align="justify">
+<h2> About Me</h2>
+
+I'm Gurudayal Yadav, a Computer Science Engineering undergraduate with a strong passion for Machine Learning, Data Science, and Software Development. I’m focused on building a strong career in Machine Learning by developing practical skills, working on real-world projects, and continuously exploring new technologies.
+
+I have been strengthening my programming and problem-solving abilities through Data Structures and Algorithms (DSA) using Java, regularly solving coding and LeetCode problems to improve my logical thinking and programming fundamentals. Alongside DSA, I'm learning the foundations of Machine Learning, data preprocessing, model building, evaluation, and practical implementation using Python and Scikit-learn.
+
+I enjoy turning what I learn into practical projects and experiments, while continuously improving my understanding of both ML concepts and software development. My goal is to become a skilled **Machine Learning Engineer** who can combine strong programming, analytical thinking, and machine learning knowledge to solve real-world problems.
+
+I'm a continuous learner who believes in learning by building, practicing consistently, and improving every day. My GitHub represents my learning journey, projects, coding practice, and progress toward building a strong career in technology.
+
+</p>
+    </td>
+    <td style="border: none; vertical-align: top;" width="30%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHEyOXo1ZmMzbm5xcHd6cDg5eXRsb3NhNmF4dGlxaGNqZ3l5cW5vdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif"
+    </td>
+  </tr>
+</table>
 
 ### 🚀 What I'm Currently Doing
 
-* 🤖 Learning and exploring **Machine Learning & Data Science**
-* 💻 Solving **DSA and LeetCode problems using Java**
-* 📊 Working on practical **ML projects**
+* 🤖 Learning and exploring Machine Learning & Data Science
+* 💻 Solving DSA and LeetCode problems using Java
+* 📊 Working on practical ML projects
 * 🧠 Strengthening problem-solving and programming fundamentals
 * 🔍 Exploring new technologies and industry-relevant skills
 * 📚 Continuously learning and improving every day
 
 ### 🎯 My Goal
 
-My goal is to become a **skilled Machine Learning Engineer** with strong programming and problem-solving abilities. I believe in learning by building, practicing consistently, and improving step by step.
+My goal is to become a skilled Machine Learning Engineer with strong programming and problem-solving abilities. I believe in learning by building, practicing consistently, and improving step by step.
 
-> **Learn → Build → Practice → Improve → Repeat.**
+> Learn → Build → Practice → Improve → Repeat.
 
 </h3>
 
@@ -28,10 +45,10 @@ My goal is to become a **skilled Machine Learning Engineer** with strong program
 
 ### 🧠 About Me
 
-- 🎓 CS/BTech student focused on **Machine Learning & AI**
+- 🎓 CS/BTech student focused on Machine Learning & AI
 - 🛠️ Shipped end-to-end ML projects: Spam Classifier, Breast Cancer Detection, Diabetes & Salary Prediction, Health Condition Predictor
-- 🤖 Builting a personal JARVIS-style assistant — **GURUDAYAL**
-- 📚 Currently prepping for Job Interview and sharpening **DSA in Java**
+- 🤖 Builting a personal JARVIS-style assistant — GURUDAYAL
+- 📚 Currently prepping for Job Interview and sharpening DSA in Java
 - 🌱 Learning: Deep Learning, NLP, MLOps
 - 📍 Based in Jaunpur, Uttar Pradesh, India
 
@@ -84,84 +101,36 @@ My goal is to become a **skilled Machine Learning Engineer** with strong program
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yadavgurudayal133-ctrl&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavgurudayal133-ctrl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavgurudayal133-ctrl&theme=tokyonight&hide_border=true" />
-</p>
-
+<div align="center">
+  <!-- Your Hosted Streak Card --
+  <!-- Top Languages Card -->
+  <img src="https://github-stats-extended.onrender.com/api/top-langs?username=yadavgurudayal133-ctrl&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
+</div>
 ---
 
-### 🖥️ Contribution Graph — Hacking Terminal Mode
+### 🖥️ Contribution Graph —
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brobot4231/Brobot4231/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brobot4231/Brobot4231/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brobot4231/Brobot4231/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+ 
+###  Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=root%40gurudayal%3A~%24+scanning_commits...;access_granted+%E2%9C%93;loading+ml_model.pkl+...;training+complete+%E2%80%94+deploying+%F0%9F%9A%80" alt="hacker terminal typing" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yadavgurudayal133-ctrl/yadavgurudayal133-ctrl/output/github-contribution-grid-snake-dark.svg" alt="matrix contribution animation" />
-</p>
-
-> ⚙️ Ek real GitHub Action (`Platane/snk`) tumhare actual contribution graph ko ek moving agent se "hack/eat" hote hue animate karta hai — colors green-on-black (Matrix/terminal look) rakhe hain. Activate karne ke steps:
->
-> 1. Ek repo banao naam se exactly `yadavgurudayal133-ctrl` (same as username) — yahi tumhara profile README repo ban jaayega.
-> 2. Usme yeh workflow file add karo: `.github/workflows/hack-snake.yml`
-> 3. Yeh README ka content us repo ke `README.md` me paste kar do.
->
-> ```yaml
-> name: Generate Hacking Contribution Animation
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     permissions:
->       contents: write
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: yadavgurudayal133-ctrl
->           outputs: |
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300FF00&color_dots=%23003300,%23006600,%2300CC00,%2300FF00
->       - uses: actions/upload-pages-artifact@v3
->         with:
->           path: dist
->   deploy:
->     needs: generate
->     runs-on: ubuntu-latest
->     permissions:
->       contents: write
->     steps:
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
-> ```
->
-> 💡 `color_snake` aur `color_dots` params change karke palette customize kar sakte ho — abhi matrix-green set hai, chaho to neon-cyan (`#00FFFF`) ya "ML fire" orange-red bhi try kar sakte ho.
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+  <a href="https://www.linkedin.com/in/gurudayal-yadav-30602122b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-instagram-handle" target="_blank">
+  <a href="https://www.instagram.com/gurudayalyadav4209/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://x.com/Guru_dyl_Ydv" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:yadavgurudayal133@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
