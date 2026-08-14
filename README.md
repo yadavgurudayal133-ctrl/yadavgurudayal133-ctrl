@@ -68,6 +68,8 @@ My goal is to become a skilled Machine Learning Engineer with strong programming
 
 **Data Science & ML**
 
+
+
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -101,22 +103,14 @@ My goal is to become a skilled Machine Learning Engineer with strong programming
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <!-- Your Hosted Streak Card --
-  <!-- Top Languages Card -->
-  <img src="https://github-stats-extended.onrender.com/api/top-langs?username=yadavgurudayal133-ctrl&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
-</div>
----
+![Gurudayal's GitHub Stats](https://github-stats-extended.vercel.app/api?username=yadavgurudayal133-ctrl&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=yadavgurudayal133-ctrl&layout=compact&theme=radical)
+
+
 
 ### 🖥️ Contribution Graph —
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brobot4231/Brobot4231/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brobot4231/Brobot4231/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brobot4231/Brobot4231/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+ ![](notebook_demo.gif)
  
 ###  Connect With Me
 
